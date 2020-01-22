@@ -19,18 +19,19 @@ organizations = [ { name = "California State University Long Beach", url = "http
 bio = "My research focus is Deep Learning ang Big Data"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "tainagdcoleman@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
   "Deep Learning",
   "Big Data",
-  "Metrics"
+  "Natural Language Processing",
+  "Data Science"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups = ["Researchers", "Visitors"]
+# user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -51,7 +52,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:tainagdcoleman@gmail.com".
+  link = "mailto:tainagdcoleman@gmail.com"
 
 [[social]]
   icon = "twitter"

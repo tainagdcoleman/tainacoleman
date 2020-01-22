@@ -5,7 +5,7 @@ publishDate: 2020-01-22T02:38:30.457977Z
 authors: ["Taina Coleman", "Jucheol Moon"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Proceedings of 32nd International Conference on*"
 ---
 
