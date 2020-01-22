@@ -76,5 +76,5 @@ interests = [
    link = "files/cv.pdf"
 
 +++
-Tainã Coleman is a graduate student in Computer Science at California State University Long Beach. She have been researching about shark identification metric under Dr. Ju Cheol Moon since October 2018. Her research interests include Deep Learning, Big Data and Biometrics. Her goals are to apply to a PhD program to start in the fall of 2020, after her MS graduation in the previous May. 
+I am graduate student in Computer Science at California State University, Long Beach. I currently conduct research with Dr. Ju Cheol Moon on individual shark identification. My research interests include Deep Learning, Big Data, Natural Language Processing, Biometrics, and Data Science. 
 
